@@ -3,6 +3,13 @@
 1. **Una app en Django** que revisa si los archivos CSV cumplen con ciertas reglas.
 2. **Un script en Python** que busca el CUFE en archivos PDF y lo guarda en SQLite.
 
+## Requerimientos
+### Ejecutar la siguiente linea:
+1. 
+    ```bash
+   pip install -r requirements.txt
+   ```
+
 ## 1.
 ### Se requiere
 - Python 3.x
